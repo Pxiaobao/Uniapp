@@ -3,6 +3,9 @@
 		<view v-for="(item,index) in stu" :key="index">
 			序号：{{index}}, 姓名：{{item.name}}, 分数：{{item.age}}
 		</view>
+		<view v-for="(item,index) in stu" :key="index">
+			序号：{{index}}, 姓名：{{item.name}}, 分数：{{item.age}}
+		</view>
 	</view>
 </template>
 
