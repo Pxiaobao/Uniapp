@@ -14,9 +14,9 @@
 		data() {
 			return {
 				stu:[
-						{name:'张三',age:20},
-						{name:'李四',age:30},
-						{name:'王五',age:10},
+						{name:'张三的分数',age:20},
+						{name:'李四的分数',age:30},
+						{name:'王五的分数',age:10},
 				]
 			};
 		}
